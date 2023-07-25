@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="toolbar">#272727</color>
+    <color name="screen">#161616</color>
+    <color name="statusBar">#1D1F20</color>
+    <color name="navigationBar">#161616</color>
+
+    <color name="secToolbar">#263238</color>
+    <color name="secScreen">#37474F</color>
+</resources>
