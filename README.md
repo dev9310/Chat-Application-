@@ -1,5 +1,4 @@
 
-```markdown
 # 💬 Chat Application
 
 A real-time chat application built using **Java**, **XML**, and **Firebase**. This app enables users to send and receive messages seamlessly over the cloud.
@@ -26,7 +25,7 @@ This Android app allows users to:
 - User session management
 
 ## 📁 Project Structure
-```
+
 
 .idea/                → Android Studio config files
 app/                  → Main source code (activities, layouts, etc.)
