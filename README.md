@@ -76,11 +76,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 > Created by [@dev9310](https://github.com/dev9310)
 
 ```
-
----
-
-📌 **Next Step:**  
-Save this file as `README.md` in the root folder of your GitHub repository.
-
-Let me know if you'd like to include a demo video or Firebase setup guide!
-```
