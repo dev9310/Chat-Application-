@@ -33,7 +33,6 @@ gradle/               → Gradle wrapper scripts
 build.gradle          → App build configuration
 settings.gradle       → Project module settings
 
-````
 
 ## 🚀 Getting Started
 
@@ -46,7 +45,7 @@ settings.gradle       → Project module settings
 1. Clone the repository:
    ```bash
    git clone https://github.com/dev9310/Chat-Application-.git
-````
+
 
 2. Open the project in **Android Studio**.
 3. Add your `google-services.json` from Firebase Console to the `app/` folder.
